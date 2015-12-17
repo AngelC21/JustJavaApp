@@ -1,0 +1,16 @@
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Angel Juste Java</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="type_name">Tapez votre nom ici</string>
+    <string name="quantity">Quantité</string>
+    <string name="toppings">Garnitures</string>
+    <string name="order_summary">Récapitulatif de la commande</string>
+    <string name="order">Commande</string>
+    <string name="chocolate">Le Chocolat</string>
+    <string name="whipped_cream">Crème Fouettée</string>
+    <string name="caramel">Caramel</string>
+    <string name="cinnamon">Cannelle</string>
+    <string name="thank_you">Je vous remercie!</string>
+    <string name="order_summary_email_subject">Just Java order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>

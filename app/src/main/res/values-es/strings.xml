@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Angel Sólo Café</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="type_name">Escribe tu nombre aquí</string>
+    <string name="quantity">Cantidad</string>
+    <string name="toppings">Coberturas</string>
+    <string name="order_summary">Resumen Del Pedido</string>
+    <string name="order">Orden</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="caramel">Caramelo</string>
+    <string name="cinnamon">Canela</string>
+    <string name="thank_you">¡Gracias!</string>
+    <string name="order_summary_email_subject">Sólo java para <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
+
